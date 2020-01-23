@@ -14,3 +14,9 @@
 # Certificates and keys
 *.crt
 *.key
+
+# ignore compiled file
+main
+
+# Ignore credentials file for future
+credentials.env
